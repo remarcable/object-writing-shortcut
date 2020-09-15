@@ -1,0 +1,22 @@
+service: clean-object-writing
+
+custom:
+    serverless-offline:
+        port: 4000
+
+plugins:
+    - serverless-offline
+
+provider:
+    name: aws
+    runtime: nodejs12.x
+    stage: production
+    region: eu-central-1
+    environment:
+        TZ: "Europe/Berlin"
+
+functions:
+    app-clean-object-writing:
+        handler: index.handler
+        events:
+            - http: GET /
