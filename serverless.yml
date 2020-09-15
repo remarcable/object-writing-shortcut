@@ -17,6 +17,6 @@ provider:
 
 functions:
     app-clean-object-writing:
-        handler: index.handler
+        handler: src/index.handler
         events:
             - http: GET /
