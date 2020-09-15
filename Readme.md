@@ -2,7 +2,7 @@
 
 > ### What is Object Writing?
 > _Object writing is timed, sense-bound writing, usually done first thing in the morning. You pick an object- a real object, like a paper clip, a coffee cup, a Corvette – and treat it as a diving board to launch you inward to the vaults of your seven senses._
-> –[objectwriting.com](https://objectwriting.com)
+> – [objectwriting.com](https://objectwriting.com)
 
 
 ## This Project
